@@ -1,3 +1,3 @@
 # 20220207
 ikt gyakorlás
-# idk
+# github-ról írtam
