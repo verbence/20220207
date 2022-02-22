@@ -4,5 +4,4 @@ ikt gyakorlás
 # halohalo halo
 cassaaablaaca
 # githbo
-# vsdcccc
-# returo
+# otthonivsc
